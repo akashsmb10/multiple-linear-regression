@@ -1,6 +1,18 @@
+# Python
 __pycache__/
-.ipynb_checkpoints/
-.env
 *.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# OS files
 .DS_Store
-model.pkl
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
